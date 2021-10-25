@@ -1,6 +1,6 @@
 <div dir='rtl' lang='he'>
 
-# Guardind The Cheese
+# Guarding The Cheese
 
 **משחק אסטרטגי המשלב יצירתיות וחשיבה מהירה לאוהבי גבינה בלבד!**
 
